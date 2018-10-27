@@ -1,0 +1,52 @@
+[
+{   
+    "id":0,
+    "clicked":false,
+    "img":"../assets/images/jerry.jpg"
+},
+{   
+    "id":1,
+    "clicked":false,
+    "img":"../assets/images/leon.jpg"
+},
+{
+    "id":2,
+    "clicked":false,
+    "img":"../assets/images/newman.jpg"
+},
+{
+    "id":3,
+    "clicked":false,
+    "img":"../assets/images/Kramer.jpg"
+},
+{
+    "id":4,
+    "clicked":false,
+    "img":"../assets/images/soup.png"
+},
+{
+    "id":5,
+    "clicked":false,
+    "img":"../assets/images/jerrydad.jpg"
+},
+{
+    "id":6,
+    "clicked":false,
+    "img":"../assets/images/susan.jpg"
+},
+{
+    "id":7,
+    "clicked":false,
+    "img":"../assets/images/elaine.jpg"
+},
+{
+    "id":8,
+    "clicked":false,
+    "img":"../assets/images/frank.jpg"
+},
+{
+    "id":9,
+    "clicked":false,
+    "img":"../assets/images/george.jpeg"
+}
+]

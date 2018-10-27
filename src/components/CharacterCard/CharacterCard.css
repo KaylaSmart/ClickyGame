@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    width: 48px;
+    height: 80px;
+    background-color: #FFF;
+    border-radius: $base-size;
+    border: 1px solid black;
+    margin: 16px;
+    padding: 4px;
+}
+
+img {
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}
